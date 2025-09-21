@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### 📊 Top Languages
+### 📊 Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=midnight-purple&hide_border=true&show_icons=true&card_width=500" alt="Top Languages" />
 </p>
