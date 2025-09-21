@@ -16,49 +16,55 @@ Here are some ideas to get you started:
 -->
 - I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
 
-### 📫 Connect with me
+### 📫 Connect with me:
 
 <p align="center">
   <a href="mailto:adidev2550@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya2550&style=for-the-badge"/>
 </p>
 
 <br>
 
-### 🛠 Tech Stack
+
+
+### 🛠 Tech Stack:
 
 <!-- Top Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/>
 </p>
 
 <!-- Middle Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase"/>
 </p>
 
 <!-- Bottom Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="40" height="40" alt="Nodemon"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="60" height="60" alt="Nodemon"/>
+ &nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman"/>
 </p>
 
 
 ### 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=midnight-purple&hide_border=true&show_icons=true&card_width=500" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=radical)
 
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
 
