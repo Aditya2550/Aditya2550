@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/Aditya2550/Aditya2550/blob/output/snake.svg)
 
+
 ![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
 
