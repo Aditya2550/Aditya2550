@@ -17,6 +17,9 @@ jobs:
         with:
           github_user_name: Aditya2550
           outputs: dist/snake.svg
+          background: ebedf0
+          color: 1e6823
+
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
