@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya2550&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=radical)
 
-![Snake animation](https://github.com/Aditya2550/Aditya2550/blob/output/snake.svg)
-
 
 ![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
 
