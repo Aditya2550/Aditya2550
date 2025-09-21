@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
 <!-- Top Row -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> &nbsp;
