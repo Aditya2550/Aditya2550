@@ -60,6 +60,5 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
+
