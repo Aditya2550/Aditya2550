@@ -17,22 +17,16 @@ Here are some ideas to get you started:
 - I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
 
 
-### 📫 How to reach me: 
 ### 📫 Connect with me
 
 <p align="center">
   <a href="mailto:adidev2550@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" alt="Gmail"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin-handle/](https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
-<p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
-</p>
-
 
 
 ### 🛠 Tech Stack
@@ -55,4 +49,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
 </p>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=radical)
+
+<p align="center">
+  ![Visitors](https://komarev.com/ghpvc/?username=Aditya2550&color=blue)
+</p>
