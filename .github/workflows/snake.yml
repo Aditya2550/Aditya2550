@@ -17,8 +17,7 @@ jobs:
         with:
           github_user_name: Aditya2550
           outputs: dist/snake.svg
-          background: ebedf0
-          color: 1e6823
+          theme: github
 
 
       - name: Push snake.svg to output branch
