@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
+  
+---
 
 ### 📫 Connect with me:
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 
-
+---
 
 ### 🛠 Tech Stack:
 
