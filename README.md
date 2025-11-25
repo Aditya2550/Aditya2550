@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:adidev2550@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="53" height="53" alt="Gmail"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="53" height="53" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -41,25 +41,25 @@ Here are some ideas to get you started:
 
 <!-- Top Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="53" height="53" alt="C++"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="53" height="53" alt="JavaScript"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="53" height="53" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="53" height="53" alt="Node.js"/>
 </p>
 
 <!-- Middle Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=express" width="53" height="53" alt="Express"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="53" height="53" alt="MongoDB"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="53" height="53" alt="Flutter"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="53" height="53" alt="Firebase"/>
 </p>
 
 <!-- Bottom Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="60" height="60" alt="Nodemon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="53" height="53" alt="Nodemon"/>
  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="53" height="53" alt="Postman"/>
 </p>
 
 <!-- 
