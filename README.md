@@ -1,31 +1,27 @@
-## Hello Aditya here! 👋
+<h1 align="center">Hey, Aditya here! </h1>
 
 <!--
-**Aditya2550/Aditya2550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -> 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with AI 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
-  
----
 
-### 📫 Connect with me:
+- 😄 Pronouns: ...
+
+-->
+- 🤝 I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
+- 📫 How to reach me: adidev2550@gmail.com
+- ⚡ Fun fact: Tenacious
+
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="mailto:adidev2550@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="53" height="53" alt="Gmail"/>
-  </a> &nbsp;
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+  </a> 
   <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="53" height="53" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
 </p>
 
@@ -33,40 +29,42 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Aditya2550&style=for-the-badge"/>
 </p>
 
-<br>
-
----
-
-### 🛠 Tech Stack:
-
-<!-- Top Row -->
+<h1 align="center">Acquianted with:</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="53" height="53" alt="C++"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="53" height="53" alt="JavaScript"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="53" height="53" alt="React"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="53" height="53" alt="Node.js"/>
+  <div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter&perline=3" />
+
+  <h3>Designing UI/X</h3>
+  <img src="https://skillicons.dev/icons?i=figma&perline=5" />
+
+  <h3>Server-Side, Backend & Languages</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+    <img src="https://skillicons.dev/icons?i=dart" width="50"/>
+    <img src="https://skillicons.dev/icons?i=js" width="50"/> <br>
+    <img src="https://skillicons.dev/icons?i=express" width="50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  </p>
+
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=5" />
+
+  <h3>Deployment & Version Control</h3>
+  <img src="https://skillicons.dev/icons?i=git,github&perline=5" />
+
+  <h3>Packages, Build & Test Tools</h3>
+   <p>
+    <img src="https://skillicons.dev/icons?i=npm" width="50"/>
+    <img src="https://skillicons.dev/icons?i=vite" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="50"/>
+  </p>
+
+</div>
 </p>
 
-<!-- Middle Row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express" width="53" height="53" alt="Express"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="53" height="53" alt="MongoDB"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter" width="53" height="53" alt="Flutter"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="53" height="53" alt="Firebase"/>
-</p>
-
-<!-- Bottom Row -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="53" height="53" alt="Nodemon"/>
- &nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="53" height="53" alt="Postman"/>
-</p>
-
-<!-- 
-### 📊 Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2550&layout=compact&theme=midnight-purple&hide_border=true&show_icons=true&card_width=500" alt="Top Languages" />
 </p>
--->
-
 
