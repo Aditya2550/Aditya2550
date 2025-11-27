@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=dart" width="50"/>
     <img src="https://skillicons.dev/icons?i=js" width="50"/> <br>
     <img src="https://skillicons.dev/icons?i=express" width="50"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> 
   </p>
 
   <h3>Database</h3>
