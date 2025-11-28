@@ -59,6 +59,7 @@
     <img src="https://skillicons.dev/icons?i=npm" width="50"/>
     <img src="https://skillicons.dev/icons?i=vite" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="50"/>
+    <img src="https://skillicons.dev/icons?i=postman" width="50"/>
   </p>
 
 </div>
