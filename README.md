@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Aditya here! </h1>
+<h1 align="center">Hello, Aditya here! </h1>
 
 <!--
 -> 🔭 I’m currently working on ...
