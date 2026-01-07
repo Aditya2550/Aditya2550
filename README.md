@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 
 -->
-- 🤝 I’m looking for help with AIML, Agentic AI and new emerging tech related to it.
+- 🤝 I’m looking for help with AIML, Agentic AI and MCP server with new emerging tech related to it.
 - 📫 How to reach me: adidev2550@gmail.com
 - ⚡ Fun fact: Tenacious
 
