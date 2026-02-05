@@ -42,6 +42,7 @@
 
   <p>
     <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+    <img src="https://skillicons.dev/icons?i=python" width="50"/>
     <img src="https://skillicons.dev/icons?i=dart" width="50"/>
     <img src="https://skillicons.dev/icons?i=js" width="50"/> <br>
     <img src="https://skillicons.dev/icons?i=express" width="50"/>
