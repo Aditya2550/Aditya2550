@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=5" />
 
   <h3>Deployment & Version Control</h3>
-  <img src="https://skillicons.dev/icons?i=git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=5" />
 
   <h3>Packages, Build & Test Tools</h3>
    <p>
