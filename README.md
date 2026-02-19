@@ -47,6 +47,16 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel,netlify" />
 </p>
 
+<!--
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aditya2550&show_icons=true&theme=tokyonight&hide_rank=true" />
+
+<img src="https://streak-stats.demolab.com?user=Aditya2550&theme=tokyonight" />
+-->
+
+
+
+
+
 
 <!--
 ### 📊 GitHub Analytics
