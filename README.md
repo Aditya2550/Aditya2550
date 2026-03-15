@@ -32,15 +32,15 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core** <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart" />
 </p>
 
 **Frontend & Mobile** <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,flutter,vite,figma" />
 </p>
 
 **Backend & Databases** <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 </p>
 
 **DevOps, Tools & Version Control** <p>
