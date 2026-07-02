@@ -47,10 +47,10 @@
 const aditya = {
   role: "Software Developer",
   location: "India 🇮🇳",
-  currentlyExploring: ["Agentic AI", "MCP Servers", "LLM Orchestration"],
-  loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems"],
+  currentlyExploring: ["DevOps and Principles", "Agentic AI", "Robust and Scalable Systems"],
+  loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems", "Universe, Facts, and Unfathomable Things."],
   funFact: "I am highly caffeinated",
-  openTo: "Collaborations on AIML & Agentic AI projects"
+  openTo: "Collaborations, Project, and Meetups"
 };
 ```
 
