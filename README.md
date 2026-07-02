@@ -48,7 +48,7 @@ const aditya = {
   role: "Software Developer",
   location: "India 🇮🇳",
   currentlyExploring: ["DevOps and Principles", "Agentic AI", "Robust and Scalable Systems"],
-  loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems", "Universe, Facts, and Unfathomable Things."],
+  loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems", "Universe, Facts, and Unfathomable Things"],
   funFact: "I am highly caffeinated",
   openTo: "Collaborations, Project, and Meetups"
 };
