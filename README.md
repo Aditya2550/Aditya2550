@@ -91,6 +91,50 @@ const aditya = {
 </p>
 
 
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌊 Ocean Hazard Prevention Platform</h3>
+<i>SIH 2025</i> — AI coastal hazard monitoring
+
+<details>
+<summary>Highlights</summary>
+
+- Twitter API sentiment analysis
+- Gemini LLM: 500+ hazards categorized
+- 20% fewer false positives
+- Live geospatial dashboards
+</details>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💰 Reimbursement Management System</h3>
+<i>Odoo Hackathon 2026</i> — Enterprise expense platform
+
+<details>
+<summary>Highlights</summary>
+
+- Multi-level approval engine
+- RBAC (Employee/Manager/Admin)
+- Real-time Socket.io notifications
+</details>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 <!--
 ## 📊 GitHub Analytics
 
