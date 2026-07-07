@@ -133,7 +133,79 @@ const aditya = {
 
 </td>
 </tr>
+<td width="50%" valign="top">
+
+<h3>🤝 AidSync</h3>
+<i>In Progress</i> — Volunteer coordination platform
+
+<details>
+<summary>Highlights</summary>
+
+- RESTful API architecture
+- Modular controllers
+- Centralized error handling
+</details>
+
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💊 MediMate</h3>
+<i>eYIC 2024-25</i> — Smart medicine dispenser app
+
+<details>
+<summary>Highlights</summary>
+
+- Real-time tracking + alarms
+- ESP32 hardware via WiFi
+- Postman-tested REST APIs
+</details>
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔌 Supabase MCP Server</h3>
+<i>Dec 2025–Jan 2026</i> — NL database interface
+
+<details>
+<summary>Highlights</summary>
+
+- MCP architecture
+- GPT-4-mini prompt-to-SQL
+- CSV ingestion + dynamic updates
+</details>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛍️ Wishlyst</h3>
+AI shopping assistant + wishlist platform
+
+<details>
+<summary>Highlights</summary>
+
+- Vector/image similarity search
+- WhatsApp bot integration
+- Swipe-style matching
+</details>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
 </table>
+
 
 <!--
 ## 📊 GitHub Analytics
