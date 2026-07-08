@@ -91,7 +91,7 @@ const aditya = {
 </p>
 
 
-## Projects
+## 🚀 Projects
 
 <table>
 <tr>
