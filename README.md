@@ -45,12 +45,14 @@
 
 ```ts
 const aditya = {
-  role: "Software Developer",
-  location: "India 🇮🇳",
-  currentlyExploring: ["DevOps and Principles", "Agentic AI", "Robust and Scalable Systems"],
+  role: "Full Stack Developer | AI-ML Enthusiast",
+  location: "Pune, India 🇮🇳",
+  currentRole: "Full Stack Intern @ AlgoAnalytics | Technical VP @ MARS Club",
+  currentlyLearning: ["DSA", "System Design", "OOP", "DevOps"],
+  currentlyWorkingOn: ["AidSync", "Portfolio Website"],
   loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems", "Universe, Facts, and Unfathomable Things"],
   funFact: "I am highly caffeinated",
-  openTo: "Collaborations, Project, and Meetups"
+  openTo: "Collaborations, Projects, and Meetups"
 };
 ```
 
@@ -205,6 +207,12 @@ AI shopping assistant + wishlist platform
 </td>
 </tr>
 </table>
+
+
+## 🏆 Achievements
+
+- 🥈 **CircuitVista 2k26** — Consolation Prize, Smart Refrigerator Monitoring System (ESP32 + Peltier cooling)
+- 🏅 **e-Yantra Innovation Challenge 2024-25** (IIT Bombay) — Semifinal Round with MediMate; Shortlisted for EYSIP Final Interview
 
 
 <!--
