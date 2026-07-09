@@ -49,7 +49,7 @@ const aditya = {
   location: "Pune, India 🇮🇳",
   currentRole: "Full Stack Intern @ AlgoAnalytics | Technical VP @ MARS Club",
   currentlyLearning: ["DSA", "System Design", "OOP", "DevOps"],
-  currentlyWorkingOn: ["AidSync", "Portfolio Website"],
+  currentlyWorkingOn: ["AidSync", "Wishlyst", "Reimbursement Management System"],
   loveDiscussing: ["Emerging Tech", "System Design", "Hard Problems", "Universe, Facts, and Unfathomable Things"],
   funFact: "I am highly caffeinated",
   openTo: "Collaborations, Projects, and Meetups"
