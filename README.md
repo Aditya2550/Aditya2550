@@ -111,9 +111,31 @@ const aditya = {
 - Live geospatial dashboards
 </details>
 
+
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+
+
+
 ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+
+
+
+![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+
+
+
+![Twitter API](https://img.shields.io/badge/-Twitter_API-1DA1F2?style=flat-square&logo=x&logoColor=white)
+
+
 
 </td>
 <td width="50%" valign="top">
@@ -129,12 +151,35 @@ const aditya = {
 - Real-time Socket.io notifications
 </details>
 
+
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+
+
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+
+
+
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+
 
 </td>
 </tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>🤝 AidSync</h3>
@@ -148,8 +193,26 @@ const aditya = {
 - Centralized error handling
 </details>
 
+
+
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+
+
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+
+
+
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+
+
+
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+
 
 </td>
 <td width="50%" valign="top">
@@ -165,8 +228,26 @@ const aditya = {
 - Postman-tested REST APIs
 </details>
 
+
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+
+
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+
+
+
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+
+
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
 
 </td>
 </tr>
@@ -184,8 +265,21 @@ const aditya = {
 - CSV ingestion + dynamic updates
 </details>
 
+
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+
+
+
+![GPT-4](https://img.shields.io/badge/-GPT--4--mini-412991?style=flat-square&logo=openai&logoColor=white)
+
+
 
 </td>
 <td width="50%" valign="top">
@@ -201,13 +295,30 @@ AI shopping assistant + wishlist platform
 - Swipe-style matching
 </details>
 
+
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+
+
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+
 
 </td>
 </tr>
 </table>
-
 
 ## 🏆 Achievements
 
