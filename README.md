@@ -7,7 +7,7 @@
 
 <br/>
 
-> *❝ A tenacious pursuit of the tangent of growth. ❞*
+> *❝ A tenacious pursuit of the tangent of growthh. ❞*
 
 <div align="center">
   <a href="https://adityavalsangkar-portfolio.vercel.app/">
