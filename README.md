@@ -79,7 +79,7 @@ const aditya = {
 
 ### Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,flutter,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,html,css,flutter,figma" />
 </p>
 
 ### Backend & Databases
