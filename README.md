@@ -10,7 +10,7 @@
 > *❝ A tenacious pursuit of the tangent of growth ❞*
 
 <div align="center">
-  <a href="https://adityavalsangkar-portfolio.vercel.app/">
+  <a href="https://www.adityavalsangkar.me/">
     <img src="https://img.shields.io/badge/%E2%9F%A1_Discover_My_Portfolio-0D1117?style=flat-square&color=0D1117" alt="Portfolio"/>
   </a>
 </div>
