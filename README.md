@@ -87,7 +87,12 @@ const aditya = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
 </p>
 
-### DevOps, Tools & Version Control
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux,nginx" />
+</p>
+
+### Tools & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel,netlify" />
 </p>
