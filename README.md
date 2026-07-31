@@ -104,222 +104,110 @@ const aditya = {
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌊 Ocean Hazard Prevention Platform</h3>
-<i>SIH 2025</i> — AI coastal hazard monitoring
+**🌊 Ocean Hazard Prevention Platform**
+<br><sub>SIH 2025 - AI coastal hazard monitoring</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
 - Twitter API sentiment analysis
 - Gemini LLM: 500+ hazards categorized
 - 20% fewer false positives
 - Live geospatial dashboards
+
+`React` `TypeScript` `Leaflet` `Gemini AI` `Twitter API`
 </details>
-
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
-
-
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-
-
-
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-
-
-
-
-![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-
-
-
-![Twitter API](https://img.shields.io/badge/-Twitter_API-1DA1F2?style=flat-square&logo=x&logoColor=white)
-
-
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💰 Reimbursement Management System</h3>
-<i>Odoo Hackathon 2026</i> — Enterprise expense platform
+**💰 FlowClaim**
+<br><sub>Odoo Hackathon 2026 - Reimbursement management platform</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
-- Multi-level approval engine
-- RBAC (Employee/Manager/Admin)
-- Real-time Socket.io notifications
+- Multi-level dynamic approval engine
+- JWT auth with `jti`-based revocation
+- Real-time updates via Socket.io
+- Zod validation, Redis session store
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `Socket.io` `Zod` `Upstash Redis`
 </details>
-
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
-
-
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-
-
-
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-
-
-
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤝 AidSync</h3>
-<i>In Progress</i> — Volunteer coordination platform
+**🤝 AidSync**
+<br><sub>In Progress - Volunteer coordination platform</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
 - RESTful API architecture
 - Modular controllers
 - Centralized error handling
+
+`Node.js` `Express` `Firebase` `Firestore`
 </details>
-
-
-
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-
-
-
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-
-
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-
-
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💊 MediMate</h3>
-<i>eYIC 2024-25</i> — Smart medicine dispenser app
+**💊 MediMate**
+<br><sub>eYIC 2024-25 - Smart medicine dispenser app</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
 - Real-time tracking + alarms
 - ESP32 hardware via WiFi
 - Postman-tested REST APIs
+
+`Flutter` `Dart` `Firebase` `Postman`
 </details>
-
-
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-
-
-
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-
-
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-
-
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔌 Supabase MCP Server</h3>
-<i>Dec 2025–Jan 2026</i> — NL database interface
+**🔌 Supabase MCP Server**
+<br><sub>Dec 2025–Jan 2026 - NL database interface</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
 - MCP architecture
 - GPT-4-mini prompt-to-SQL
 - CSV ingestion + dynamic updates
+
+`Python` `Supabase` `GPT-4-mini`
 </details>
-
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-
-
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-
-
-
-![GPT-4](https://img.shields.io/badge/-GPT--4--mini-412991?style=flat-square&logo=openai&logoColor=white)
-
-
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛍️ Wishlyst</h3>
-AI shopping assistant + wishlist platform
+**🛍️ Wishlyst**
+<br><sub>AI shopping assistant + wishlist platform</sub>
 
 <details>
-<summary>Highlights</summary>
+<summary>Details</summary>
+<br>
 
 - Vector/image similarity search
 - WhatsApp bot integration
 - Swipe-style matching
+
+`React` `FastAPI` `PostgreSQL` `Redis`
 </details>
-
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-
-
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
 
 </td>
 </tr>
