@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello%2C+Aditya+here!+%F0%9F%91%8B;Software+Developer;Full+Stack%2C+DevOps+and+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hello%2C+Aditya+here!;Software+Developer;Full+Stack%2C+DevOps+and+AI+Agents" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,12 +41,12 @@
 
 ---
 
-## 🧠 About Me
+## About
 
 ```ts
 const aditya = {
   role: "Full Stack Developer | AI-ML Enthusiast",
-  location: "Pune, India 🇮🇳",
+  location: "Pune, India",
   currentRole: "Full Stack Intern @ AlgoAnalytics | Technical VP @ MARS Club",
   currentlyLearning: ["DSA", "System Design", "OOP", "DevOps"],
   currentlyWorkingOn: ["AidSync", "Wishlyst", "Reimbursement Management System"],
@@ -55,7 +55,6 @@ const aditya = {
   openTo: "Collaborations, Projects, and Meetups"
 };
 ```
-
 
 <!--
 ## 🚀 Current Focus
@@ -69,8 +68,9 @@ const aditya = {
 </div>
 -->
 
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 <p>
@@ -97,14 +97,15 @@ const aditya = {
   <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel,netlify" />
 </p>
 
+---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🌊 Ocean Hazard Prevention Platform**
+**Ocean Hazard Prevention Platform**
 <br><sub>SIH 2025 - AI coastal hazard monitoring</sub>
 
 <details>
@@ -122,7 +123,7 @@ const aditya = {
 </td>
 <td width="50%" valign="top">
 
-**💰 FlowClaim**
+**FlowClaim**
 <br><sub>Odoo Hackathon 2026 - Reimbursement management platform</sub>
 
 <details>
@@ -142,7 +143,7 @@ const aditya = {
 <tr>
 <td width="50%" valign="top">
 
-**🤝 AidSync**
+**AidSync**
 <br><sub>In Progress - Volunteer coordination platform</sub>
 
 <details>
@@ -159,7 +160,7 @@ const aditya = {
 </td>
 <td width="50%" valign="top">
 
-**💊 MediMate**
+**MediMate**
 <br><sub>eYIC 2024-25 - Smart medicine dispenser app</sub>
 
 <details>
@@ -178,7 +179,7 @@ const aditya = {
 <tr>
 <td width="50%" valign="top">
 
-**🔌 Supabase MCP Server**
+**Supabase MCP Server**
 <br><sub>Dec 2025–Jan 2026 - NL database interface</sub>
 
 <details>
@@ -195,7 +196,7 @@ const aditya = {
 </td>
 <td width="50%" valign="top">
 
-**🛍️ Wishlyst**
+**Wishlyst**
 <br><sub>AI shopping assistant + wishlist platform</sub>
 
 <details>
@@ -213,11 +214,12 @@ const aditya = {
 </tr>
 </table>
 
-## 🏆 Achievements
+---
 
-- 🥈 **CircuitVista 2k26** - Consolation Prize, Smart Refrigerator Monitoring System
-- 🏅 **e-Yantra Innovation Challenge 2024-25** (IIT Bombay) Semifinal Round with MediMate; Shortlisted for EYSIP Final Interview
+## Achievements
 
+- **CircuitVista 2k26** - Consolation Prize, Smart Refrigerator Monitoring System
+- **e-Yantra Innovation Challenge 2024-25** (IIT Bombay) Semifinal Round with MediMate; Shortlisted for EYSIP Final Interview
 
 <!--
 ## 📊 GitHub Analytics
@@ -241,7 +243,10 @@ const aditya = {
 
 ---
 -->
-## 📈 Contribution Graph
+
+---
+
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2550&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
@@ -251,10 +256,13 @@ const aditya = {
 
 <div align="center">
 
-### 💬 Let's connect and build something cool together!
+Let's connect and build something cool together.
 
-*"The best way to predict the future is to build it."*
+<p>
+  <a href="mailto:aditya.valsangkar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+© Aditya Valsangkar
 
 </div>
