@@ -80,6 +80,7 @@ const aditya = {
 ### Frontend & Mobile
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,html,css,flutter,figma" />
+  <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 </p>
 
 ### Backend & Databases
