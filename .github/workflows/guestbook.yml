@@ -1,0 +1,30 @@
+name: Update Guestbook
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-guestbook:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'Guestbook')
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Guestbook in README
+        uses: muety/readme-guestbook@v1.0.9
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max_entries: 5
+          date_format: "YYYY-MM-DD"
+
+      - name: Close Issue
+        run: gh issue close ${{ github.event.issue.number }} --comment "Thank you! Your note has been added to the profile."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
