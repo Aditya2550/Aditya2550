@@ -109,7 +109,7 @@ const aditya = {
 **Ocean Hazard Prevention Platform**
 <br><sub>SIH 2025 - AI coastal hazard monitoring</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -127,7 +127,7 @@ const aditya = {
 **FlowClaim**
 <br><sub>Odoo Hackathon 2026 - Reimbursement management platform</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -147,7 +147,7 @@ const aditya = {
 **AidSync**
 <br><sub>In Progress - Volunteer coordination platform</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -164,7 +164,7 @@ const aditya = {
 **MediMate**
 <br><sub>eYIC 2024-25 - Smart medicine dispenser app</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -183,7 +183,7 @@ const aditya = {
 **Supabase MCP Server**
 <br><sub>Dec 2025–Jan 2026 - NL database interface</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -200,7 +200,7 @@ const aditya = {
 **Wishlyst**
 <br><sub>AI shopping assistant + wishlist platform</sub>
 
-<details>
+<details open>
 <summary>Details</summary>
 <br>
 
@@ -214,7 +214,6 @@ const aditya = {
 </td>
 </tr>
 </table>
-
 ---
 
 ## Achievements
