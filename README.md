@@ -249,7 +249,7 @@ const aditya = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya2550&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Aditya2550&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 ---
