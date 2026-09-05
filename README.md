@@ -246,10 +246,20 @@ const aditya = {
 
 ---
 
-## Contribution Graph
+## Activity & Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya2550&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  <!-- Streak Stats Card -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aditya2550&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Your Self-Hosted Activity Wave Graph -->
+  <img src="https://github-readme-activity-graph-neon-beta.vercel.app/graph?username=Aditya2550&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
