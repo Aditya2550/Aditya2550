@@ -276,6 +276,9 @@ const aditya = {
 
 <!--START_SECTION:guestbook-->
 
+| User | Message | Date |
+| :---: | :--- | :---: |
+| <a href="https://github.com/Aditya2550"><img src="https://github.com/Aditya2550.png?size=40" width="40" style="border-radius:50%"/></a> | **[@Aditya2550](https://github.com/Aditya2550)** <br/> Testing guestbook! | *2026-09-05* |
 <!--END_SECTION:guestbook-->
 
 ---
