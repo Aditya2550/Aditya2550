@@ -264,6 +264,21 @@ const aditya = {
 
 ---
 
+## 💬 Community Guestbook
+
+<p align="center">
+  Leave a message on my profile!
+  <br/><br/>
+  <a href="https://github.com/Aditya2550/Aditya2550/issues/new?title=Guestbook%20Entry&body=Type%20your%20message%20here!">
+    <img src="https://img.shields.io/badge/Sign_My_Guestbook-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook"/>
+  </a>
+</p>
+
+<!-- START_SECTION:guestbook -->
+<!-- END_SECTION:guestbook -->
+
+---
+
 <div align="center">
 
 Let's connect and build something cool together.
