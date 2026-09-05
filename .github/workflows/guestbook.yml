@@ -17,13 +17,57 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update Guestbook in README
-        uses: muety/readme-guestbook@v1.0.9
+      - name: Update README with Guestbook Entry
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_entries: 5
+          script: |
+            const fs = require('fs');
+            const issue = context.payload.issue;
+            const author = issue.user.login;
+            const body = issue.body ? issue.body.replace(/\r?\n|\r/g, ' ').trim() : 'Signed the guestbook!';
+            const date = new Date().toISOString().split('T')[0];
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const startTag = '<!--START_SECTION:guestbook-->';
+            const endTag = '<!--END_SECTION:guestbook-->';
+
+            if (!readme.includes(startTag) || !readme.includes(endTag)) {
+              core.setFailed('Could not find START/END tags in README.md');
+              return;
+            }
+
+            const newEntry = `| <a href="https://github.com/${author}"><img src="https://github.com/${author}.png?size=40" width="40" style="border-radius:50%"/></a> | **[@${author}](https://github.com/${author})** <br/> ${body} | *${date}* |`;
+
+            const sectionRegex = new RegExp(`${startTag}[\\s\\S]*?${endTag}`);
+            const currentBlock = readme.match(sectionRegex)[0];
+
+            let tableContent = '';
+            if (!currentBlock.includes('| User | Message | Date |')) {
+              tableContent = `\n\n| User | Message | Date |\n| :---: | :--- | :---: |\n${newEntry}\n`;
+            } else {
+              // Add new entry right under the table header
+              const lines = currentBlock.split('\n');
+              const headerIndex = lines.findIndex(l => l.includes('| :---: |'));
+              lines.splice(headerIndex + 1, 0, newEntry);
+              tableContent = '\n\n' + lines.filter(l => !l.includes(startTag) && !l.includes(endTag)).join('\n').trim() + '\n';
+            }
+
+            readme = readme.replace(sectionRegex, `${startTag}${tableContent}${endTag}`);
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update guestbook entry from #${{ github.event.issue.number }}"
+            git push
+          fi
 
       - name: Close Issue
-        run: gh issue close ${{ github.event.issue.number }} --comment "Thank you! Your note has been added to the profile."
+        run: gh issue close ${{ github.event.issue.number }} --comment "Thank you @${{ github.event.issue.user.login }}! Your note has been added to the profile."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
