@@ -22,7 +22,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           max_entries: 5
-          date_format: "YYYY-MM-DD"
 
       - name: Close Issue
         run: gh issue close ${{ github.event.issue.number }} --comment "Thank you! Your note has been added to the profile."
