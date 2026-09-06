@@ -17,26 +17,36 @@
 
 <br/>
 
+<!-- 1. Primary CTA: Upgraded Glowing Portfolio Button -->
 <div align="center">
   <a href="https://www.adityavalsangkar.me/">
-    <img src="https://img.shields.io/badge/%E2%9F%A1_Discover_My_Portfolio-0D1117?style=flat-square&color=0D1117" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/_Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161B22" alt="Portfolio" height="30" />
   </a>
 </div>
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="mailto:aditya.valsangkar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://github.com/Aditya2550"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Aditya2550&style=flat-square&color=8B5CF6&label=Profile+Views" />
-  <!-- <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20MCP-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Coffee%20Level-Dangerously%20High%20-FB923C?style=flat-square" /> -->
-</p>
+<!-- 2. Social Handles + Clean Profile Views in One Single Line -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="mailto:aditya.valsangkar.work@gmail.com">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://komarev.com/ghpvc/?username=Aditya2550&style=for-the-badge&color=8B5CF6&labelColor=161B22&label=VISITORS" height="28" alt="Views"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
 
 <!-- Animated Snake -->
 <picture>
