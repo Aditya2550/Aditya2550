@@ -282,7 +282,7 @@ const aditya = {
 
 ---
 
-## 💬 Community Guestbook
+## Community Guestbook
 
 <p align="center">
   Leave a message on my profile!
@@ -305,10 +305,22 @@ const aditya = {
 
 Let's connect and build something cool together.
 
-<p>
-  <a href="mailto:aditya.valsangkar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="mailto:aditya.valsangkar.work@gmail.com">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.linkedin.com/in/aditya-valsangkar-303b14314/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 © Aditya Valsangkar
 
