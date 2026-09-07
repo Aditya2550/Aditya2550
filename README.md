@@ -63,7 +63,7 @@
 
 ```ts
 const aditya = {
-  role: "Full Stack Developer | AI-ML Enthusiast",
+  role: "Full Stack Developer",
   location: "Pune, India",
   currentRole: "Full Stack Intern @ AlgoAnalytics | Technical VP @ MARS Club",
   currentlyLearning: ["DSA", "System Design", "OOP", "DevOps"],
@@ -123,6 +123,8 @@ const aditya = {
 <table>
 <tr>
 <td width="50%" valign="top">
+
+
 
 **Ocean Hazard Prevention Platform**
 <br><sub>SIH 2025 - AI coastal hazard monitoring</sub>
