@@ -7,7 +7,7 @@
 
 <br/>
 
-> *❝ A tenacious pursuit of the tangent of growth❞*
+> *❝ A tenacious pursuit of the tangent of growth ❞*
 
 <br/><br/>
 
