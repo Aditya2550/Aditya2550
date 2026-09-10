@@ -59,6 +59,16 @@
 
 ---
 
+## 💼 Experience & Leadership
+
+- **Full Stack Intern** @ **AlgoAnalytics**  
+  *Building full-stack features, scalable backend workflows, and modern web & mobile applications.*
+
+- **Technical Vice President** @ **MARS Club**  
+  *Leading core technical initiatives, guiding developer teams, and organizing technical hackathons.*
+
+---
+
 ## About
 
 ```ts
