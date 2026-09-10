@@ -238,7 +238,7 @@ const aditya = {
 
 ## Achievements
 
-- **CircuitVista 2k26** - Consolation Prize, Smart Refrigerator Monitoring System
+- **CircuitVista 2k26 (3rd Year Engineering Project Competition)** - Consolation Prize, Smart Refrigerator Monitoring System
 - **e-Yantra Innovation Challenge 2024-25** (IIT Bombay) Semifinal Round with MediMate; Shortlisted for EYSIP Final Interview
 
 <!--
