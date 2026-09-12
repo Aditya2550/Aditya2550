@@ -64,7 +64,7 @@
 - **Full Stack Intern** @ **AlgoAnalytics**  
   *Building full-stack features, scalable backend workflows, and modern web & mobile applications.*
 
-- **Technical Vice President** @ **MARS Club**  
+- **Technical Vice President** @ **MARS (Management of Avishkar, Research and Startup) Club**  
   *Leading core technical initiatives, guiding developer teams, and organizing technical hackathons.*
 
 ---
