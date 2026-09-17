@@ -102,7 +102,7 @@ const aditya = {
 
 ### Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
 </p>
 
 ### Frontend & Mobile
